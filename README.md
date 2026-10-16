@@ -1,6 +1,6 @@
 # Awesome-Team-Communication-Chat
 
-# Top Team Communication & Chat Tools Ecosystem
+## Top Team Communication & Chat Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Topic Threading, Self-Hosted Sovereignty & Federated Messaging*  
