@@ -30,6 +30,7 @@ Welcome to the ultimate directory for modern **Team Communication, Workplace Cha
 - [⚖️ Architecture & Deployment Decision Matrix](#️-architecture--deployment-decision-matrix)
 - [❓ Frequently Asked Questions (FAQ)](#-frequently-asked-questions-faq)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsoring](#-support--sponsoring)
 - [📈 Star History](#--star-history)
 - [🛡️ Disclaimer & Terms](#️-disclaimer--terms)
 
@@ -148,6 +149,27 @@ We love contributions from the community! To suggest a new tool, update pricing 
 3. 📝 **Edit `README.md`**: Follow the established table schema, include specific pricing and free tier limits, and provide factual descriptions.
 4. 🧪 **Verify Badges & Links**: Ensure markdown links are functional and badge parameters are accurate.
 5. 🚀 **Submit a Pull Request**: Provide a concise summary of the addition or update.
+
+---
+
+## 💖 Support & Sponsoring
+
+A huge **thank you** to all our contributors, star-gazers, and community members! Keeping this ecosystem directory factual, up-to-date, and comprehensive takes continuous research and maintenance.
+
+If you find this repository valuable:
+- ⭐ **Star this repository** to help others discover it on GitHub.
+- 🍴 **Fork and share** it with your engineering team, tech community, and colleagues.
+- 📢 **Tweet, blog, or talk** about these open-source and sovereign communication alternatives.
+- ☕ **Buy me a coffee / Sponsor the project**: Support continued open-source development and curated resources via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub" />
+  </a>
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</p>
 
 ---
 
